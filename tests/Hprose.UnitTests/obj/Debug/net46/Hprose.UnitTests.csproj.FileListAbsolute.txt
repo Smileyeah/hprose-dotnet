@@ -1,0 +1,4 @@
+D:\Code\hprose-dotnet\tests\Hprose.UnitTests\obj\Debug\net46\Hprose.UnitTests.csprojAssemblyReference.cache
+D:\Code\hprose-dotnet\tests\Hprose.UnitTests\obj\Debug\net46\Hprose.UnitTests.AssemblyInfoInputs.cache
+D:\Code\hprose-dotnet\tests\Hprose.UnitTests\obj\Debug\net46\Hprose.UnitTests.AssemblyInfo.cs
+D:\Code\hprose-dotnet\tests\Hprose.UnitTests\obj\Debug\net46\Hprose.UnitTests.csproj.CoreCompileInputs.cache
